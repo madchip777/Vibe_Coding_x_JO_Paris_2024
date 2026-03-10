@@ -9,6 +9,113 @@
 
 ## Prompts de génération et vibe-coding
 
+Prompt original :
+```prompt
+=========================================
+HISTORIQUE DES PROMPTS — PROJET VIBE CODING
+JO Paris 2024
+=========================================
+
+
+PROMPT 1
+--------
+Voici un projet de Vibe Coding noté sur 20, réalisé en groupe de 3-4
+étudiants en 2 heures. L'objectif est de transposer 4 exercices
+réalisés en Session 1 sur l'écosystème des JO Paris 2024
+en une Webapp fonctionnelle développée avec l'aide d'un assistant IA.
+Les 4 sections à produire sont : une infographie interactive
+de l'écosystème JO, un dashboard de performances d'un athlète,
+un récit immersif sur l'héritage olympique,
+et un rapport interactif sur les innovations technologiques.
+
+Je te fournis les documents sources contenant les données
+de chaque section. Aide-moi à établir une structure
+et un déroulé pour la réalisation de ce projet.
+
+
+PROMPT 2
+--------
+Voici mes réponses à tes questions initiales :
+- Niveau en développement web : Intermédiaire (HTML/CSS/JS basique)
+- Outil de Vibe Coding envisagé : Pas encore décidé
+- Mode de travail : Groupe de 3-4
+- Objectif principal : Avoir une bonne note (maximum de points)
+- Expérience en Vibe Coding : Aucune, première utilisation
+
+
+PROMPT 3
+--------
+Commençons à rendre le contenu de chaque section plus digeste
+pour l'outil de génération. Commençons avec le document lié
+à notre première section. Réfléchissons d'abord à la structure
+de cette page, séparée en sections, chacune avec ses cartes
+correspondantes synthétisant les informations.
+
+Voici mes choix pour cette section :
+- Sections à conserver : toutes (Gouvernance, Sites, Budget, Héritage)
+- Type d'interactivité : cartes cliquables avec popup au clic
+- Niveau de détail : moyen (titre + quelques lignes)
+
+La structure proposée me convient, rédigeons maintenant
+le prompt complet qui regroupe ces informations
+de manière claire pour l'outil de génération.
+
+
+PROMPT 4
+--------
+Passons au document lié à la deuxième section :
+le Dashboard des performances athlète.
+
+Voici mes choix pour cette section :
+- Organisation de l'affichage : séparation XCC vs XCO
+  avec les deux épreuves sur un même graphique
+  et une option filtre pour afficher/masquer l'une ou l'autre
+- Élément visuel : un graphique simple et fiable pour minimiser
+  les bugs potentiels lors de la génération
+- Mise en valeur des JO Paris 2024 : oui,
+  avec une carte spéciale en couleur or
+
+
+PROMPT 5
+--------
+Passons au document lié à la troisième section :
+l'Héritage Olympique vu par un habitant.
+
+Voici mes choix pour cette section :
+- Format narratif : scroll storytelling
+  (blocs qui apparaissent au fil du scroll)
+- Éléments visuels : comparaisons Avant/Après
+- Ton : rester fidèle au ton personnel de l'habitant
+  (première personne, "je", "mon quartier"...)
+
+
+PROMPT 6
+--------
+Passons au document lié à la quatrième section :
+les Innovations Technologiques des JO Paris 2024.
+
+Voici mes choix pour cette section :
+- Affichage des innovations : cartes filtrables par catégorie
+- Visualisation des scores Efficacité / Acceptabilité / Pérennité :
+  graphique en barres
+- Scénarios d'adoption future : oui,
+  avec un bloc dédié aux 3 scénarios (A, B, C)
+
+
+PROMPT 7
+--------
+Vérifions que nos quatre prompts de section sont cohérents
+entre eux. Ensuite, nous créerons le prompt d'architecture
+global qui viendra en premier, afin que l'outil de génération
+sache où et comment placer et lier nos pages.
+
+Voici mes choix pour l'architecture :
+- Comportement de fermeture des popups à uniformiser :
+  croix en haut à droite + clic en dehors de la popup
+- Structure de la Webapp : plusieurs pages
+  avec navigation entre elles
+```
+
 Prompt de génération de l'app web :
 ```prompt
 Crée une Webapp multi-pages sur le thème des JO Paris 2024
