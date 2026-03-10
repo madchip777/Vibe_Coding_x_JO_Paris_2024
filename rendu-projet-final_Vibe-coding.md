@@ -5,7 +5,7 @@
 - Maxime Cordonnier
 - Emmanuel Conde Reis
 
-### URL de l'application web : [`https://vibe-coding-x-jo-paris-2024-nn5l.vercel.app/`](https://vibe-coding-x-jo-paris-2024-nn5l.vercel.app/)
+### URL de l'application web : [`https://vibe-coding-x-jo-paris-2024.vercel.app/`](https://vibe-coding-x-jo-paris-2024.vercel.app/)
 
 ## Prompts de génération et vibe-coding
 
@@ -744,4 +744,4 @@ Aucune difficulté significative n'a été rencontré durant la réalisation de 
 
 ## Axes critiques
 
-Par gouts personnel on aurait préférer avoir un site créer par nous même, mais dans le contexte du vibe-coding on aurait peut-être aimé pouvoir XXXXXXXXXX
+Par gouts personnel on aurait préférer avoir un site créer par nous même, mais dans le contexte du vibe-coding on aurait peut-être aimé pouvoir rendre le site plus intéractif et avoir plus de données officiels pour les graphes.
